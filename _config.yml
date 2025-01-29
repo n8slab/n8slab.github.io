@@ -1,5 +1,5 @@
-title: "Nate Equan"
-subtitle: Software Developer, QA Enthusiast, Cybersecurity Engineer
+title: "n8slab"
+subtitle: 
 description: >- # this means to ignore newlines until "baseurl:"
   Dynamic personal portfolio/blog site built using devlopr-jekyll
 
@@ -22,9 +22,9 @@ urls:
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: profile.png
+author_logo: newprofilepic.jpeg
 author: n8
-author_bio: Hi, my name is Nate Equan. I'm a...
+author_bio: Software Developer, QA Enthusiast, Cybersecurity Engineer
 author_email: "nate.equan@gmail.com"
 author_location: Charlotte, NC
 author_website_url: ""
@@ -57,16 +57,16 @@ author_education_details:
 
 # Projects
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
-                visibility: true
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
-                visibility: true
+              - project_thumbnail: 
+                project_title: 
+                project_description: 
+                project_url: 
+                visibility: false
+              - project_thumbnail: 
+                project_title: 
+                project_description: 
+                project_url: 
+                visibility: false
 
 # social links
 github_username:  n8slab
@@ -105,7 +105,7 @@ permalink: pretty
 # Choose what to show ( can be true or false)
 show_author_work_experiences: true
 show_author_education_details: true
-show_author_project_details: true
+show_author_project_details: false
 
 # pagination of posts
 paginate: 4
