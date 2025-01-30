@@ -23,7 +23,7 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: newprofilepic.jpeg
-author: n8
+author: Nate Equan
 author_quickbio: Software Developer, QA Enthusiast, Cybersecurity Engineer
 author_bio: Versatile software engineer with 6+ years of industry experience designing and implementing secure, high-quality software and cybersecurity solutions. Proven track record of building and optimizing DevOps frameworks by integrating automated tests and security controls into CI/CD pipelines, ensuring Quality Assurance and Data Security at scale. Subject matter expert in developing comprehensive test plans to validate functional and security requirements, enhancing system reliability and mitigating risk. Demonstrated success in leading testing efforts across the SDLC for multiple, concurrent projects, collaborating with cross-functional teams to deliver secure, on-time solutions that meet stakeholder expectations, organizational objectives, and compliance with industry standards.
 author_email: "nate.equan@gmail.com"
@@ -34,26 +34,46 @@ hero_cover_img: homepage_banner.jpeg # replace this for changing homepage cover 
 
 # Experiences (About Page)
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
+            - company_name: Awards North
+              company_logo: anlogo1000x1000_nobg.png
+              company_url: https://awardsnorth.com
+              designation: Manager/Production Engineer
+              description: 
+              visibility: true
+            - company_name: Delta Air Lines, Inc.
+              company_logo: delta_logo_nobg.png
+              company_url: https://delta.com
+              designation: Senior Software Engineer, QA
+              description: Worked on various Azure Cloud Products
+              visibility: true
+            - company_name: Fidelity Investments
+              company_logo: Fidelity+Investments+Logo.png
+              company_url: https://fidelity.com
+              designation: Software Engineer II, QA 
               description: Worked on various Google Products
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
+            - company_name: Fidelity Investments
+              company_logo: Fidelity+Investments+Logo.png
+              company_url: https://fidelity.com
+              designation: Systems Analyst Intern
               description: Worked on various Azure Cloud Products
               visibility: true
 
 # Education
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+              - college_logo: uncc_logo_nobg.png
+                college_name: University of North Carolina at Charlotte
+                college_url: https://uncc.edu
+                college_degree: B.S. Computer Science
+                graduation_date: May 2019
+                description: Concentration in Cybersecurity
+                visibility: true
+              - college_logo: uncc_logo_nobg.png
+                college_name: University of North Carolina at Charlotte
+                college_url: https://uncc.edu
+                college_degree: B.A. Criminal Justice
+                graduation_date: May 2019
+                description:
                 visibility: true
 
 # Projects
