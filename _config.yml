@@ -38,25 +38,25 @@ author_work_experiences:
               company_logo: anlogo1000x1000_nobg.png
               company_url: https://awardsnorth.com
               designation: Manager/Production Engineer
-              description: 
+              description: Lead the completion of 800+ client projects grossing over $125K in sales within a 11-month period, maintaining strict adherence to budgetary constraints and timelines. Designed custom digital drafts using Adobe and Corel graphics software, configuring and operating five industrial laser systems to deliver high-quality, personalized client products
               visibility: true
             - company_name: Delta Air Lines, Inc.
               company_logo: delta_logo_nobg.png
               company_url: https://delta.com
               designation: Senior Software Engineer, QA
-              description: Worked on various Azure Cloud Products
+              description: Led and coordinated the software QA initiatives across 3 cross-functional teams for the successful delivery of 6 new Enterprise software products, and maintenance of our software product suite containing 30+ web apps. Collaborated with developers, product owners, and stakeholders to improve user experience and mitigate vulnerabilities and defects
               visibility: true
             - company_name: Fidelity Investments
               company_logo: Fidelity+Investments+Logo.png
               company_url: https://fidelity.com
               designation: Software Engineer II, QA 
-              description: Worked on various Google Products
+              description: Piloted the restructure of QA/testing framework by designing & executing 800+ manual and automated end-to-end test cases for our cryptographic signing/key management APIs, increasing our test coverage by over 500% to secure over $4 Billion in company and client assets
               visibility: true
             - company_name: Fidelity Investments
               company_logo: Fidelity+Investments+Logo.png
               company_url: https://fidelity.com
               designation: Systems Analyst Intern
-              description: Worked on various Azure Cloud Products
+              description: Delivered technical solutions for vendor PaaS platform and SaaS products, offering business analysts improved tools for use in organizing data and streamlining client communications
               visibility: true
 
 # Education
