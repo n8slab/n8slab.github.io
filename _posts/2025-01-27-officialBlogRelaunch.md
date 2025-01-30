@@ -7,7 +7,7 @@ date: '2025-01-22 12:00:00 +0530'
 category: 
 thumbnail: /assets/img/posts/backtothelabagain.gif
 keywords: welcome, intro, n8, blog opener, blog
-permalink: /blog/welcome-to-devlopr-jekyll/
+permalink: /blog/official-blog-relaunch/
 usemathjax: true
 ---
 
