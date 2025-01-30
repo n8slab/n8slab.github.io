@@ -1,7 +1,7 @@
 title: "n8slab"
 subtitle: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Dynamic personal portfolio/blog site built using devlopr-jekyll
+  n8's personal blog
 
 url: "https://n8slab.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -14,7 +14,7 @@ urls:
       url: /about
     - text: Blog
       url: /blog
-    - text: Project Repo
+    - text: Projects
       url: /projects
     - text: Connect
       url : /contact
@@ -24,7 +24,8 @@ urls:
 
 author_logo: newprofilepic.jpeg
 author: n8
-author_bio: Software Developer, QA Enthusiast, Cybersecurity Engineer
+author_quickbio: Software Developer, QA Enthusiast, Cybersecurity Engineer
+author_bio: Versatile software engineer with 6+ years of industry experience designing and implementing secure, high-quality software and cybersecurity solutions. Proven track record of building and optimizing DevOps frameworks by integrating automated tests and security controls into CI/CD pipelines, ensuring Quality Assurance and Data Security at scale. Subject matter expert in developing comprehensive test plans to validate functional and security requirements, enhancing system reliability and mitigating risk. Demonstrated success in leading testing efforts across the SDLC for multiple, concurrent projects, collaborating with cross-functional teams to deliver secure, on-time solutions that meet stakeholder expectations, organizational objectives, and compliance with industry standards.
 author_email: "nate.equan@gmail.com"
 author_location: Charlotte, NC
 author_website_url: ""
